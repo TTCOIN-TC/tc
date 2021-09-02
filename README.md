@@ -12,6 +12,27 @@ Reaching 2 million users in 2 months, TTcoin continues its projects without slow
 
 Between 2022 and 2023, he will sign organizations named Football Club Project and TTcoin Incorporated Company. Apart from these, there are many projects including secret projects.
 
+-
+
+Token Address: https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
+Smart Contract: https://tronscan.org/#/contract/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y/code
+
+-
+
+TTcoin was created as a TRC20 token on the Tron network with the least cost for users and the TTcoin team.
+
+Name : TTCOIN
+Symbol : TC
+Max. Reserve : 6,000,000,000
+Sensitivity : 4
+Blockchain : TRC20
+Creation Date : 24.03.2021
+Mining Start Date : 16.06.2021
+
+E-mail : contact@ttcoin.info
+
+-
+
 Social Media:
 
 Telegram : https://bit.ly/3wqhKYG
