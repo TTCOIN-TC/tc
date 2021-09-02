@@ -1,8 +1,13 @@
-WHAT IS TTCOIN (TC) ?
+What is TTcoin?
 
-It is a crypto money created in the TRC20 infrastructure to be used in games and applications of Taner Games & Application Company.
+TTcoin is a token designed on the TRC20 infrastructure to be used in TTcoin brands, products and organizations.
 
-TTCOIN (TC), which is currently trying to collect both distribution and investment with the Google Play application, will provide convenience to its users and investors with its new projects.
-Thanks to our upcoming new projects and our representatives to be appointed around the world, TTCOIN (TC) will be suitable for interstate exchanges.
-What is TRC20 ?
-TRC20 network; Networks used by digital wallets to send, receive or share digital assets between wallet addresses. The ERC-20 network has strong firewalls built on the blockchain base and consists of secure smart contracts.
+It was created on March 24 by Tayfun Taner and Tunahan Taner.
+
+On June 16, 2021, it was distributed as airdrop rewards on Android phones.
+
+It made its first listing on August 25, on India's leading stock exchange, KoinBazar, and determined its first exit price.
+
+Reaching 2 million users in 2 months, TTcoin continues its projects without slowing down.
+
+Between 2022 and 2023, he will sign organizations named Football Club Project and TTcoin Incorporated Company. Apart from these, there are many projects including secret projects.
