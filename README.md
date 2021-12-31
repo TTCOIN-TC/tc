@@ -1,46 +1,92 @@
-What is TTcoin?
-
-TTcoin is a token designed on the TRC20 infrastructure to be used in TTcoin brands, products and organizations.
-
-It was created on March 24 by Tayfun Taner and Tunahan Taner.
-
-On June 16, 2021, it was distributed as airdrop rewards on Android phones.
-
-It made its first listing on August 25, on India's leading stock exchange, KoinBazar, and determined its first exit price.
-
-Reaching 2 million users in 2 months, TTcoin continues its projects without slowing down.
-
-Between 2022 and 2023, he will sign organizations named Football Club Project and TTcoin Incorporated Company. Apart from these, there are many projects including secret projects.
-
--
-
-Token Address: https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
-Smart Contract: https://tronscan.org/#/contract/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y/code
-
--
-
-TTcoin was created as a TRC20 token on the Tron network with the least cost for users and the TTcoin team.
-
-Name : TTCOIN
+<>
+ 
+Name : TTcoin
 Symbol : TC
 Max. Reserve : 6,000,000,000
-Sensitivity : 4
-Blockchain : TRC20
+Total Coin: https://api.ttscan.net/api.php?q=totalcoins
+Circulating Supply : https://api.ttscan.net/api.php?q=circulating
+Decimal : 4
+Blockchain : TRC20, BEP20
 Creation Date : 24.03.2021
-Mining Start Date : 16.06.2021
+ 
+Logo Png : https://ttscan.net/logo/
+ 
+TRC20 Token Address: https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
+TRC20 Smart Contract: https://tronscan.org/#/contract/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
+TRC20 Token Address: https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5929a21162
+TRC20 Smart Contract: https://bscscan.com/address/0x659049786cB66E4486b8C0E0cCC90a5929a21162
+ 
+Web site : https://ttcoin.info
+Team: https://www.ttcoin.info/team
+About: https://www.ttcoin.info/about-us 
+Whitepaper: https://github.com/TTCOIN-TC/tc/raw/main/whitepaper/tc-whitepaper-v2-EN.pdf
+Google Play : https://play.google.com/store/apps/details?id=com.ttcoin.tc
+ 
+https://coinmarketcap.com/currencies/ttcoin/
+https://coingecko.com/en/coins/ttcoin
+https://coinmarketcal.com/en/coin/ttcoin
+https://coinpaprika.com/coin/tc-ttcoin/
+https://crypto.com/price/tr/ttcoin
+https://coincodex.com/crypto/ttcoin/
+https://livecoinwatch.com/price/TTCOIN-TC
+https://coincost.net/tr/currency/ttcoin
+https://nomics.com/assets/tc-ttcoin
+https://coincheckup.com/coins/ttcoin
+https://blockspot.io/coin/ttcoin/
+https://moonstats.com/tc-ttcoin
+https://coinmomo.com/coins/ttcoin
+https://thehdgr.com/tr/ttcoin
+https://coinstats.app/coins/ttcoin/
+https://playtoearn.net/crypto-token/ttcoin
+https://digitalcoinprice.com/coins/ttcoin
+ 
+ 
+Listed Exchanges:
+ 
+P2PB2B
+https://p2pb2b.io/trade/TC-USDT
+ 
+KoinBazar
+https://www.koinbazar.com/trade/TC-USDT
+https://www.koinbazar.com/trade/TC-INR
+ 
+CoinsBit
+https://coinsbit.io/trade_classic/TC_USDT
+ 
+VinDAX
+https://vindax.com/exchange-base.html?symbol=TC_ETH
+https://vindax.com/exchange-base.html?symbol=TC_USDT
 
-E-mail : contact@ttcoin.info
+Zedxion
+https://www.zedxion.net/en_US/trade/TC_USDT
 
--
-
-Social Media:
-
-Telegram : https://bit.ly/3wqhKYG
-Telegram Group : https://bit.ly/3gnDobI
-YouTube : https://bit.ly/3xykKDn
-Twitter : https://bit.ly/3efPTTQ
-Instagram : https://bit.ly/3glyGLB
-Facebook : https://bit.ly/3jU1wV9
-Facebook Group : https://bit.ly/3xoM7jl
-Google Play : https://bit.ly/36i6Nxz
-Web Site : https://ttcoin.info
+AzBit
+https://azbit.com/exchange/TC_USDT
+ 
+Bololex
+https://bololex.com/trading/?symbol=TC-BOLO
+https://bololex.com/trading/?symbol=TC-USDT
+ 
+SunSwap
+https://sunswap.com/#/scan/detail/trx/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
+ 
+----------------
+Social Media
+ 
+Telegram Global: t.me/ttcoinworld
+Telegram Channel : t.me/ttcoinofficial
+Telegram English Grup : t.me/ttcoinenglish
+Telegram Turkey Grup : t.me/ttcointurkey
+Telegram India Grup : t.me/ttcoinindia
+Telegram Korea Grup : t.me/ttcoinkorea
+Telegram Pakistan Grup : t.me/ttcoinpakistan
+Telegram Indonesia Grup : t.me/ttcoinindonesia
+Telegram Vietnamese Grup : t.me/ttcoinvietnamese
+ 
+Facebook: https://facebook.com/ttcoinofficial
+Twitter: https://twitter.com/ttcoinofficial
+Instagram: https://instagram.com/ttcoinofficial
+Linkedin: http://linkedin.com/company/ttcoinofficial
+YouTube: https://www.youtube.com/channel/UCw4ctJY-VD12hwHuHl1D9kw
+Google Play : https://play.google.com/store/apps/details?id=com.ttcoin.tc
+Github: https://github.com/TTCOIN-TC/
