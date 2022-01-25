@@ -1,25 +1,25 @@
 <>
  
+<>
+ 
 Name : TTcoin
 Symbol : TC
 Max. Reserve : 6,000,000,000
 Total Coin: https://api.ttscan.net/api.php?q=totalcoins
 Circulating Supply : https://api.ttscan.net/api.php?q=circulating
 Decimal : 4
-Blockchain : TRC20, BEP20
+Blockchain : BEP20, TRC20
 Creation Date : 24.03.2021
  
 Logo Png : https://ttscan.net/logo/
- 
+
+BEP20 Token Address: https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5929a21162
 TRC20 Token Address: https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
-TRC20 Smart Contract: https://tronscan.org/#/contract/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
-TRC20 Token Address: https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5929a21162
-TRC20 Smart Contract: https://bscscan.com/address/0x659049786cB66E4486b8C0E0cCC90a5929a21162
  
 Web site : https://ttcoin.info
 Team: https://www.ttcoin.info/team
 About: https://www.ttcoin.info/about-us 
-Whitepaper: https://github.com/TTCOIN-TC/tc/raw/main/whitepaper/tc-whitepaper-v2-EN.pdf
+Whitepaper: https://ttscan.net/wp/whitepaper.pdf
 Google Play : https://play.google.com/store/apps/details?id=com.ttcoin.tc
  
 https://coinmarketcap.com/currencies/ttcoin/
