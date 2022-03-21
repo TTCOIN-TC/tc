@@ -1,0 +1,11 @@
+{
+    "name": "TTcoin",
+    "type": "TRC20",
+    "symbol": "TC",
+    "decimals": 4,
+    "website": "https://ttcoin.info",
+    "description": "TTcoin is a token designed to be used as a payment method for brands and organizations. It will also be used as a payment method for projects that are going to be conducted between 2022-2024.",
+    "explorer": "https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y",
+    "status": "active",
+    "id": "TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y"
+}
