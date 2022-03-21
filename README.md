@@ -1,7 +1,3 @@
-<>
- 
-<>
- 
 Name : TTcoin
 Symbol : TC
 Max. Reserve : 6,000,000,000
@@ -17,10 +13,8 @@ BEP20 Token Address: https://bscscan.com/token/0x659049786cB66E4486b8C0E0cCC90a5
 TRC20 Token Address: https://tronscan.org/#/token20/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
  
 Web site : https://ttcoin.info
-Team: https://www.ttcoin.info/team
-About: https://www.ttcoin.info/about-us 
+Team: https://www.ttcoin.info/team 
 Whitepaper: https://ttscan.net/wp/whitepaper.pdf
-Google Play : https://play.google.com/store/apps/details?id=com.ttcoin.tc
  
 https://coinmarketcap.com/currencies/ttcoin/
 https://coingecko.com/en/coins/ttcoin
@@ -29,17 +23,6 @@ https://coinpaprika.com/coin/tc-ttcoin/
 https://crypto.com/price/tr/ttcoin
 https://coincodex.com/crypto/ttcoin/
 https://livecoinwatch.com/price/TTCOIN-TC
-https://coincost.net/tr/currency/ttcoin
-https://nomics.com/assets/tc-ttcoin
-https://coincheckup.com/coins/ttcoin
-https://blockspot.io/coin/ttcoin/
-https://moonstats.com/tc-ttcoin
-https://coinmomo.com/coins/ttcoin
-https://thehdgr.com/tr/ttcoin
-https://coinstats.app/coins/ttcoin/
-https://playtoearn.net/crypto-token/ttcoin
-https://digitalcoinprice.com/coins/ttcoin
- 
  
 Listed Exchanges:
  
@@ -69,9 +52,12 @@ https://bololex.com/trading/?symbol=TC-USDT
  
 SunSwap
 https://sunswap.com/#/scan/detail/trx/TCMwzYUUCxLkTNpXjkYSBgXgqXwt7KJ82y
- 
+
+PancekSwap
+https://pancakeswap.finance/swap?outputCurrency=0x659049786cb66e4486b8c0e0ccc90a5929a21162
+
 ----------------
-Social Media
+"Social Media"
  
 Telegram Global: t.me/ttcoinworld
 Telegram Channel : t.me/ttcoinofficial
@@ -80,7 +66,7 @@ Telegram Turkey Grup : t.me/ttcointurkey
 Telegram India Grup : t.me/ttcoinindia
 Telegram Korea Grup : t.me/ttcoinkorea
 Telegram Pakistan Grup : t.me/ttcoinpakistan
-Telegram Indonesia Grup : t.me/ttcoinindonesia
+Telegram Indonesia Grup : t.me/ttcoinindonesian
 Telegram Vietnamese Grup : t.me/ttcoinvietnamese
  
 Facebook: https://facebook.com/ttcoinofficial
