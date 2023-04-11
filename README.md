@@ -1,9 +1,9 @@
 # TTcoin Information
 
-Name : TTcoin 
-Symbol : TC 
-Max. Reserve : 6,000,000,000 
-Total Coin: https://api.ttscan.net/api.php?q=totalcoins
+-Name : TTcoin 
+-Symbol : TC 
+-Max. Reserve : 6,000,000,000 
+-Total Coin: https://api.ttscan.net/api.php?q=totalcoins
 
 Circulating Supply : https://api.ttscan.net/api.php?q=circulating
 
