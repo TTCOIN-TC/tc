@@ -3,6 +3,7 @@ Symbol : TC
 Max. Reserve : 6,000,000,000
 Total Coin: https://api.ttscan.net/api.php?q=totalcoins
 Circulating Supply : https://api.ttscan.net/api.php?q=circulating
+
 Decimal : 4
 Blockchain : BEP20, TRC20
 Creation Date : 24.03.2021
