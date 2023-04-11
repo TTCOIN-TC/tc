@@ -1,5 +1,8 @@
 # TTcoin Information
 
+- George Washington
+* John Adams
++ Thomas Jefferson
 -Name : TTcoin 
 -Symbol : TC 
 -Max. Reserve : 6,000,000,000 
